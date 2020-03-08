@@ -1,0 +1,19 @@
+#highscores {
+    float: left;
+    margin: 15px;
+    width: 50%;
+}
+
+#current {
+    float: right;
+    margin: 15px;
+    width: 50%;
+}
+
+#quiz {
+    display: none;
+}
+
+#score-card {
+    display: none;
+}
